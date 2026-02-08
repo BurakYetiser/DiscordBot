@@ -1,0 +1,5 @@
+C:\Users\burak\OneDrive\Masaüstü\DiscordBot\DiscordBot\obj\Debug\net8.0\DiscordBot.csproj.AssemblyReference.cache
+C:\Users\burak\OneDrive\Masaüstü\DiscordBot\DiscordBot\obj\Debug\net8.0\DiscordBot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burak\OneDrive\Masaüstü\DiscordBot\DiscordBot\obj\Debug\net8.0\DiscordBot.AssemblyInfoInputs.cache
+C:\Users\burak\OneDrive\Masaüstü\DiscordBot\DiscordBot\obj\Debug\net8.0\DiscordBot.AssemblyInfo.cs
+C:\Users\burak\OneDrive\Masaüstü\DiscordBot\DiscordBot\obj\Debug\net8.0\DiscordBot.csproj.CoreCompileInputs.cache

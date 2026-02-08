@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\burak\\OneDrive\\Masa\u00FCst\u00FC\\DiscordBot\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D3FC5CBE-4D9F-4595-B062-917315333D09}|DiscordBot\\DiscordBot.csproj|c:\\users\\burak\\onedrive\\masa\u00FCst\u00FC\\discordbot\\discordbot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3FC5CBE-4D9F-4595-B062-917315333D09}|DiscordBot\\DiscordBot.csproj|solutionrelative:discordbot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3FC5CBE-4D9F-4595-B062-917315333D09}|DiscordBot\\DiscordBot.csproj|c:\\users\\burak\\onedrive\\masa\u00FCst\u00FC\\discordbot\\discordbot\\core\\botservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3FC5CBE-4D9F-4595-B062-917315333D09}|DiscordBot\\DiscordBot.csproj|solutionrelative:discordbot\\core\\botservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3FC5CBE-4D9F-4595-B062-917315333D09}|DiscordBot\\DiscordBot.csproj|c:\\users\\burak\\onedrive\\masa\u00FCst\u00FC\\discordbot\\discordbot\\events\\memberjoin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3FC5CBE-4D9F-4595-B062-917315333D09}|DiscordBot\\DiscordBot.csproj|solutionrelative:discordbot\\events\\memberjoin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3FC5CBE-4D9F-4595-B062-917315333D09}|DiscordBot\\DiscordBot.csproj|c:\\users\\burak\\onedrive\\masa\u00FCst\u00FC\\discordbot\\discordbot\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D3FC5CBE-4D9F-4595-B062-917315333D09}|DiscordBot\\DiscordBot.csproj|solutionrelative:discordbot\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3FC5CBE-4D9F-4595-B062-917315333D09}|DiscordBot\\DiscordBot.csproj|c:\\users\\burak\\onedrive\\masa\u00FCst\u00FC\\discordbot\\discordbot\\events\\welcomeimagecreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3FC5CBE-4D9F-4595-B062-917315333D09}|DiscordBot\\DiscordBot.csproj|solutionrelative:discordbot\\events\\welcomeimagecreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3FC5CBE-4D9F-4595-B062-917315333D09}|DiscordBot\\DiscordBot.csproj|c:\\users\\burak\\onedrive\\masa\u00FCst\u00FC\\discordbot\\discordbot\\assets\\spotify.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{D3FC5CBE-4D9F-4595-B062-917315333D09}|DiscordBot\\DiscordBot.csproj|solutionrelative:discordbot\\assets\\spotify.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\burak\\OneDrive\\Masa\u00FCst\u00FC\\DiscordBot\\DiscordBot\\appsettings.json",
+              "RelativeDocumentMoniker": "DiscordBot\\appsettings.json",
+              "ToolTip": "C:\\Users\\burak\\OneDrive\\Masa\u00FCst\u00FC\\DiscordBot\\DiscordBot\\appsettings.json",
+              "RelativeToolTip": "DiscordBot\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-08T23:26:53.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "spotify.png - PNG [128x128, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\burak\\OneDrive\\Masa\u00FCst\u00FC\\DiscordBot\\DiscordBot\\Assets\\spotify.png",
+              "RelativeDocumentMoniker": "DiscordBot\\Assets\\spotify.png",
+              "ToolTip": "C:\\Users\\burak\\OneDrive\\Masa\u00FCst\u00FC\\DiscordBot\\DiscordBot\\Assets\\spotify.png - PNG [128x128, 32 bit, PNG]",
+              "RelativeToolTip": "DiscordBot\\Assets\\spotify.png - PNG [128x128, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-02-08T23:13:12.124Z",
+              "EditorCaption": " - PNG [128x128, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BotService.cs",
+              "DocumentMoniker": "C:\\Users\\burak\\OneDrive\\Masa\u00FCst\u00FC\\DiscordBot\\DiscordBot\\Core\\BotService.cs",
+              "RelativeDocumentMoniker": "DiscordBot\\Core\\BotService.cs",
+              "ToolTip": "C:\\Users\\burak\\OneDrive\\Masa\u00FCst\u00FC\\DiscordBot\\DiscordBot\\Core\\BotService.cs",
+              "RelativeToolTip": "DiscordBot\\Core\\BotService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T22:57:42.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\burak\\OneDrive\\Masa\u00FCst\u00FC\\DiscordBot\\DiscordBot\\Program.cs",
+              "RelativeDocumentMoniker": "DiscordBot\\Program.cs",
+              "ToolTip": "C:\\Users\\burak\\OneDrive\\Masa\u00FCst\u00FC\\DiscordBot\\DiscordBot\\Program.cs",
+              "RelativeToolTip": "DiscordBot\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T22:56:46.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MemberJoin.cs",
+              "DocumentMoniker": "C:\\Users\\burak\\OneDrive\\Masa\u00FCst\u00FC\\DiscordBot\\DiscordBot\\Events\\MemberJoin.cs",
+              "RelativeDocumentMoniker": "DiscordBot\\Events\\MemberJoin.cs",
+              "ToolTip": "C:\\Users\\burak\\OneDrive\\Masa\u00FCst\u00FC\\DiscordBot\\DiscordBot\\Events\\MemberJoin.cs",
+              "RelativeToolTip": "DiscordBot\\Events\\MemberJoin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T22:50:13.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WelcomeImageCreator.cs",
+              "DocumentMoniker": "C:\\Users\\burak\\OneDrive\\Masa\u00FCst\u00FC\\DiscordBot\\DiscordBot\\Events\\WelcomeImageCreator.cs",
+              "RelativeDocumentMoniker": "DiscordBot\\Events\\WelcomeImageCreator.cs",
+              "ToolTip": "C:\\Users\\burak\\OneDrive\\Masa\u00FCst\u00FC\\DiscordBot\\DiscordBot\\Events\\WelcomeImageCreator.cs",
+              "RelativeToolTip": "DiscordBot\\Events\\WelcomeImageCreator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T22:47:33.501Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
