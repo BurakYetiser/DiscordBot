@@ -54,13 +54,13 @@ public static class WelcomeImageGenerator
 
             float centerX = background.Width / 2f;
 
-            // Avatar ortada (üstte ama dev)
+            // Avatar ortada
             float avatarX = centerX - (avatarSize / 2f);
             float avatarY = background.Height * 0.06f;
 
             ctx.DrawImage(circleAvatar, new Point((int)avatarX, (int)avatarY), 1f);
 
-            // Username fontunu otomatik küçült (çok uzun isimlerde taşma olmasın)
+            // Username fontunu otomatik küçült
             Font nameFont = family.CreateFont(nameFontSize, FontStyle.Bold);
             var nameSize = TextMeasurer.MeasureSize(nameText, new TextOptions(nameFont));
 

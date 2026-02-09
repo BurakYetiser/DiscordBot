@@ -5,7 +5,7 @@ namespace DiscordBot.Events
 {
     public static class MemberJoinEvent
     {
-        private const ulong WelcomeChannelId = 1467617406078816461;
+        private const ulong WelcomeChannelId = 0; // Hoş geldin mesajlarının gönderileceği kanal ID'si
 
         public static async Task OnUserJoinedAsync(SocketGuildUser user, IConfiguration config)
         {
